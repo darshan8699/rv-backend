@@ -1,0 +1,20 @@
+[
+  {
+    "type": "Work",
+    "included": true,
+    "name": "Left > Normal",
+    "price": 0
+  },
+  {
+    "type": "Work",
+    "included": false,
+    "name": "Front",
+    "price": 100
+  },
+  {
+    "type": "Travel",
+    "included": false,
+    "name": "Rear",
+    "price": 100
+  }
+]

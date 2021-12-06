@@ -1,0 +1,17 @@
+[
+  {
+    "included": true,
+    "capacity": 85,
+    "price": 0
+  },
+  {
+    "included": false,
+    "capacity": 95,
+    "price": 100
+  },
+  {
+    "included": false,
+    "capacity": 110,
+    "price": 150
+  }
+]

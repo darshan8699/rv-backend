@@ -1,0 +1,58 @@
+[
+  {
+    "wheel": {
+      "name": "Wheel 1",
+      "price": 87,
+      "options": {
+        "size": 16,
+        "brand": "MRF"
+      }
+    },
+    "toolbox": {
+      "name": "Tool Box 1",
+      "price": 753,
+      "options": {}
+    },
+    "extra_light": {
+      "type": "Work",
+      "options": {
+        "side": {
+          "name": "left",
+          "price": 99
+        }
+      }
+    },
+    "water_tank": {
+      "capacity": 85,
+      "price": 587
+    }
+  },
+  {
+    "wheel": {
+      "name": "Wheel 2",
+      "price": 78,
+      "options": {
+        "size": 13,
+        "brand": "CEAT"
+      }
+    },
+    "toolbox": {
+      "name": "Tool Box 2",
+      "price": 357,
+      "options": {}
+    },
+    "extra_light": {
+      "type": "Work",
+      "options": {
+        "side": {
+          "name": "right",
+          "price": 77
+        }
+      }
+    },
+    "water_tank": {
+      "capacity": 58,
+      "price": 785
+    }
+  }
+]

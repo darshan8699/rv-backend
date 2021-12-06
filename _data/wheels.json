@@ -1,0 +1,23 @@
+[
+  {
+    "included": true,
+    "name": "Wheel 1",
+    "price": 0,
+    "size": 16,
+    "brand": "MRF"
+  },
+  {
+    "included": false,
+    "name": "Wheel 2",
+    "price": 78,
+    "size": 13,
+    "brand": "CEAT"
+  },
+  {
+    "included": false,
+    "name": "Wheel 3",
+    "price": 78,
+    "size": 14,
+    "brand": "CEAT"
+  }
+]

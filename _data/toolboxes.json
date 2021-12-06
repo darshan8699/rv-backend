@@ -1,0 +1,17 @@
+[
+  {
+    "included": true,
+    "name": "Toolbox 1",
+    "price": 0
+  },
+  {
+    "included": false,
+    "name": "Toolbox 2",
+    "price": 100
+  },
+  {
+    "included": false,
+    "name": "Toolbox 3",
+    "price": 100
+  }
+]
